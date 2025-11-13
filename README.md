@@ -10,8 +10,8 @@ https://github.com/CarlosAlbertoRamirez/Actividad-M1_01
 
 ### 🔹 Actividad M1-02
 Enlace al repositorio:
-https://github.com/CarlosAlbertoRamirez/Actividad-M1_02
+https://github.com/CarlosAlbertoRamirez/Actividad-M1-02.git
 
 ### 🔹 Actividad M1-03
 Enlace al repositorio:
-https://github.com/CarlosAlbertoRamirez/ArregloSorterJava
+https://github.com/CarlosAlbertoRamirez/Actividad-M1-03.git
