@@ -6,7 +6,7 @@ Este repositorio contiene mis actividades del curso de Programación Móvil.
 
 ### 🔹 Actividad M1-01
 Enlace al repositorio:
-https://github.com/CarlosAlbertoRamirez/Actividad-M1_01
+https://github.com/CarlosAlbertoRamirez/ProgramacionMovilFCA/blob/main/android_2026_m1_01.pdf
 
 ### 🔹 Actividad M1-02
 Enlace al repositorio:
