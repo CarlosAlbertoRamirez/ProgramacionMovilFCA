@@ -20,8 +20,6 @@ Enlace al repositorio: https://github.com/CarlosAlbertoRamirez/MiCalculadora
 Archivo PDF entregado:  
 `android_2026_m3_01.pdf`
 ### 🔹 Actividad M4-01  
-Ciclo de vida de una Activity  
-
 Enlace al repositorio:  
 https://github.com/CarlosAlbertoRamirez/ActividadM4_01  
 
