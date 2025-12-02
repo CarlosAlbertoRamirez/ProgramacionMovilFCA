@@ -18,8 +18,7 @@ https://github.com/CarlosAlbertoRamirez/Actividad-M1-03.git
 
 ### 🔹 Actividad M2-01
 Enlace al repositorio:
-https://github.com/CarlosAlbertoRamirez/Actividad-M1-03.git
-
+https://github.com/CarlosAlbertoRamirez/ProgramacionMovilFCA/blob/main/android_2026_m2_01.pdf
 
 ### 🔹 Actividad M3-01  
 Enlace al repositorio: https://github.com/CarlosAlbertoRamirez/MiCalculadora
